@@ -2,7 +2,6 @@ body {
     background-color: #FFFFFF;
     color: #666666;
     font-family: Arial, Helvetica, sans-serif;
-
 }
 
 header {
@@ -34,7 +33,6 @@ dt {
 .ut {
     color: #ba1c21;
     font-weight: bold;
-
 }
 
 footer {
@@ -46,5 +44,5 @@ footer {
 #wrapper {
     width: 80%;
     margin-right: auto;
-    margin-left: auto;
+    margin-left: auto
 }
